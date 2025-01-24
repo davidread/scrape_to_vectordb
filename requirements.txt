@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lancedb
+pandas
+sentence-transformers
+scrapy
+
+# solve compatibility issue with urllib3 and LibreSSL on macOS
+urllib3==1.26.6
