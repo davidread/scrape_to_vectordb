@@ -4,6 +4,7 @@ lancedb
 pandas
 sentence-transformers
 scrapy
+anthropic
 
 # solve compatibility issue with urllib3 and LibreSSL on macOS
 urllib3==1.26.6
